@@ -9,6 +9,10 @@ module.exports = {
         secondary: "#00f6ff",
         dimWhite: "rgba(255, 255, 255, 0.7)",
         dimOrange: "rgba(71, 55, 39, 0.1)",
+        citrusOrange: "rgba(255, 167, 80, 1)"
+      },
+      backgroundColor:{
+        citrusOrange: "rgba(255, 167, 80, 1)"
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
