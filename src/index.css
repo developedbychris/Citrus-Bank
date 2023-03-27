@@ -60,7 +60,7 @@
     -168.39deg,
     #ffffff -278.56%,
     #6d6d6d -78.47%,
-    #11101d 91.61%
+    #1d1510 91.61%
   );
 }
 
@@ -73,7 +73,7 @@
 }
 
 .bg-discount-gradient {
-  background: linear-gradient(125.17deg, #272727 0%, #11101d 100%);
+  background: linear-gradient(125.17deg, #272727 0%, #1d1510 100%);
 }
 
 .box-shadow {
@@ -110,6 +110,7 @@
 .feature-card {
   position: relative;
   transition: box-shadow 0.5s ease-in-out;
+  background: transparent;
 }
 
 .feature-card:before {
@@ -143,7 +144,6 @@
 
 .feedback-card:hover {
   background: var(--black-gradient);
-  
 }
 
 .orange__gradient {

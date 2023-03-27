@@ -2,11 +2,9 @@ import React from 'react'
 import {apple, bill, google} from '../assets'
 import styles, {layout} from '../style'
 
-//! RESUME VIDEO @ 8:07:00
-//! https://youtu.be/F627pKNUCVQ
 
 const Billing = () => (
-  <section className={layout.sectionReverse}>
+  <section className={layout.sectionReverse} id="product">
     <div className={layout.sectionImgReverse}>
       <img src={bill} alt="billing" className='w-full h-full relative z-[5]'/>
       <div className='absolute z-[3] -left-1/2 top-0 w-[50%] h-[50%] rounded-full white__gradient'/>
