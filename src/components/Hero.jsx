@@ -2,7 +2,6 @@ import styles from "../style"
 import { discount, robot, robot2} from "../assets"
 import GetStarted from './GetStarted'
 
-//! RESUME VIDEO @ 7:24:00
 const Hero = () => {
   return (
     <section id='home' className={`flex md:flex-row flex-col ${styles.paddingY}`}>
