@@ -1,4 +1,4 @@
 # Citrus Bank 
 A landing page for a bank.
 
-(View Here)[https://citrusbank.netlify.app/]
+<a href="https://citrusbank.netlify.app/">View here</a>
