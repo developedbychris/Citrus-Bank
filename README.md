@@ -1,2 +1,2 @@
-# Citrus-Bank
+# Citrus Bank 
 ## A landing page for a bank.
